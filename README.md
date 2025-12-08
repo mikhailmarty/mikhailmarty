@@ -2,20 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AC8FA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mikhail+%F0%9F%91%8B;Developer+%26+Educator;Linux+Enthusiast" alt="Typing SVG" />
 
-<p>
-  <a href="https://t.me/mikhailstudio">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discord.com/users/679612854579888133">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://youtube.com/@mikhailstudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://steamcommunity.com/id/mikhailstudio/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" alt="Steam">
-  </a>
-</p>
+<p><a href="https://t.me/mikhailstudio"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a><a href="https://discord.com/users/679612854579888133"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a><a href="https://youtube.com/@mikhailstudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a><a href="https://steamcommunity.com/id/mikhailstudio/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" alt="Steam"></a></p>
 
 </div>
 
@@ -121,9 +108,9 @@ I maintain a robust homelab/VPS environment to ensure data privacy and service r
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Scratch](https://img.shields.io/badge/Scratch-F7931E?style=flat-square&logo=scratch&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white) |
 | **GameDev / Libs** | `Solar 2D` `PyGame` `Aiogram` `MCPI` |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) |
 | **Markup** | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
 
 <br>
