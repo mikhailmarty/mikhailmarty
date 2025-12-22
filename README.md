@@ -10,7 +10,7 @@
 
 ### ☕ About Me
 
-I code for the sheer joy of creation and the satisfaction of automating the mundane. For me, development isn't just work—it's a lifestyle of making things efficient and beautiful.
+I code for the sheer joy of creation and the satisfaction of automating the mundane. For me, development isn't just work — it's a lifestyle of making things efficient and beautiful.
 
 *   **Philosophy:** "Simplicity is the ultimate sophistication."
 *   **Daily Driver:** **CachyOS** (Arch Linux) running a customized **KDE Plasma** desktop.
@@ -27,7 +27,7 @@ Beyond the screen, I am passionate about shaping young minds. I actively teach:
 
 ### 🧩 My Visual Programming Journey
 
-My path wasn't linear—it was a loop of discovery and contribution.
+My path wasn't linear — it was a loop of discovery and contribution.
 
 1.  **The Spark:** It all started with **Scratch**, learning the fundamentals of logic.
 2.  **The Deep Dive:** I discovered **CCode** and became an avid enthusiast.
