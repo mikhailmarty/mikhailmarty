@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5AC8FA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mikhail+%F0%9F%91%8B;Developer+%26+Educator;Linux+Enthusiast" alt="Typing SVG" />
 
-<p><a href="https://t.me/mikhailstudio"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a><a href="https://discord.com/users/679612854579888133"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a><a href="https://youtube.com/@mikhailstudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a><a href="https://steamcommunity.com/id/mikhailstudio/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" alt="Steam"></a></p>
+<p><a href="https://t.me/mikhailmarty"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram"></a><a href="https://discord.com/users/679612854579888133"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a><a href="https://youtube.com/@mikhailstudio"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a><a href="https://steamcommunity.com/id/mikhailstudio/"><img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" alt="Steam"></a></p>
 
 </div>
 
